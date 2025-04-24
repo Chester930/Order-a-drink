@@ -1,0 +1,40 @@
+# Python相關
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# 資料庫檔案
+*.sqlite3
+*.db
+
+# VSCode相關
+.vscode/
+*.code-workspace
+
+# 作業系統相關
+.DS_Store
+Thumbs.db
+
+# Node.js相關（若前端使用Node.js）
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 環境設定
+.env
+*.env.*
+
+# 其他
+.idea/
+*.swp
+*.bak
+*.tmp
